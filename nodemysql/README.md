@@ -2,6 +2,10 @@
 
 Este exemplo trata de um cadastro simples, sem interface, sendo utilizado apenas via terminal.
 
+Os arquivos são:
+- consultas.sql (comandos sql para criar o banco e a tabela caso não exista)
+- index.js 
+
 Siga o passo a passo
 
 ### Passo 1
